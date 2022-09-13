@@ -1,3 +1,3 @@
 # Noireaux-Lab
 
-Sample scripts for microscope image analysis
+Sample macros scripts in Janva for microscope image analysis in ImageJ.
